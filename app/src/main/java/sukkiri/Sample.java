@@ -23,6 +23,9 @@ class RandomWrapper{
     }
 }
 
+修正をこれに戻したら過去のコミットが消える＞
+
+
 class Name{
     private String firstName;
     private String lastName;
